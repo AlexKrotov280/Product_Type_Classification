@@ -1,0 +1,9 @@
+Flask
+tensorflow
+numpy
+Pillow
+tensorflow-cpu
+requests
+confuse
+azure-storage-blob
+tqdm
